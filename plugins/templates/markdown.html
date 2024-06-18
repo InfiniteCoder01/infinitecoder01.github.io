@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    {{#if metadata.title}}
+      <title>{{ metadata.title }}</title>
+    {{else}}
+    {{/if}}
+    <link rel="stylesheet" href="/global.css">
+  </head>
+  <body class="container notification content">
+    {{{ content }}}
+  </body>
+</html>
