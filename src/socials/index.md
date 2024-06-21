@@ -23,7 +23,7 @@ title: My socials
 - [Discord](https://discord.gg/yHYCKtX9Mt)
 
 ### News/Famous
-- [Twitter](https://twitter.com/Dima01L/)
+- [Twitter](https://twitter.com/InfiniteCoder01/)
 - [Instagram](https://www.instagram.com/dimaprogrammist/)
 
 ### Support\.\.\.
