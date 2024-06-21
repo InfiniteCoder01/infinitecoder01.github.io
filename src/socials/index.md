@@ -7,7 +7,7 @@ title: My socials
 
 ### Websites
 - [Needs more links] [GitHub](https://github.com/InfiniteCoder01/)
-- [Needs more links] [Website](https://infinitecoder01.github.io/InfiniteCoder01/)
+- [Needs more links] [Website](https://infinitecoder.org)
 - [Itch](https://infinitecoder.itch.io/)
 - [Codeium](https://codeium.com/profile/infinitecoder)
 - [Needs more links] [Speedrun](https://www.speedrun.com/users/InfiniteCoder)
