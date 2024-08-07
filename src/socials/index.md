@@ -23,10 +23,9 @@ title: My socials
 - [Discord](https://discord.gg/yHYCKtX9Mt)
 - [Reddit](https://reddit.com/r/InfiniteCoder/)
 
-### News/Famous
-- [Twitter](https://twitter.com/InfiniteCoder01/)
+### Life
 - [Instagram](https://www.instagram.com/dimaprogrammist/)
 
 ### Support\.\.\.
-- [Patreon](https://www.patreon.com/InfiniteCoder01)
+- [Patreon](https://www.patreon.com/InfiniteCoder01) - I don't know if I'll keep it
 - [StreamElements](https://streamelements.com/infinitecoder01)
