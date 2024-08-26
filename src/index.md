@@ -6,4 +6,4 @@ title: Hi!
 
 Check out this [post](/blog/writing-a-compiler-backend)
 
-[My socials](/socials)
+[My contacts](/contacts)
