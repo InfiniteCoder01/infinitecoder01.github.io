@@ -103,8 +103,12 @@ table {
 img {
 	max-width: 100%;
 	height: auto;
+}
+
+img.icon  {
   vertical-align: middle;
 }
+
 code {
 	padding: 2px 5px;
 	background-color: rgb(var(--gray-light));
