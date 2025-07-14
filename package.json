@@ -10,8 +10,6 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^4.2.0",
-    "@iconify-json/cib": "^1.2.2",
-    "astro": "^5.5.2",
-    "astro-icon": "^1.1.5"
+    "astro": "^5.5.2"
   }
 }
