@@ -5,5 +5,6 @@ import mdx from '@astrojs/mdx';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://www.infinitecoder.org',
+  build: { inlineStylesheets: 'always' },
   integrations: [mdx()]
 });
